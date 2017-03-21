@@ -1,5 +1,5 @@
 # trap
 
-code: just for demo;
-issues: for recording traps;
-wiki: for notes.
+- [code](https://github.com/Lucups/trap): just for demo;
+- [issues](https://github.com/Lucups/trap/issues): for recording traps;
+- [wiki](https://github.com/Lucups/trap/wiki): for notes.

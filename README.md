@@ -1,2 +1,5 @@
 # trap
-Tony 的踩坑实录
+
+code: just for demo;
+issues: for recording traps;
+wiki: for notes.
